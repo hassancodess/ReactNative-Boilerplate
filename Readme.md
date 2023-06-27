@@ -1,5 +1,5 @@
 
-# 🛠️ React Native Boilerplate
+# ⚡️ React Native Boilerplate
 
 This project is a great resource to jumpstart your next project since it includes commonly used libraries that are configured for both android & iOS.
 
