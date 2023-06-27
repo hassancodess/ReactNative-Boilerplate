@@ -15,7 +15,7 @@ This project is a great resource to jumpstart your next project since it include
 
 ```bash
   npm install
-  cd ios && npx pod-install
+  npx pod-install
   cd ..
 ```
 ### 📱 iOS
