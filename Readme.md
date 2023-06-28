@@ -14,9 +14,7 @@ This project is a great resource to jumpstart your next project since it include
 ## 🚀 Getting Started
 
 ```bash
-  npm install
-  npx pod-install
-  cd ..
+  npx react-native init MyApp --template https://github.com/hassancodess/ReactNative-Boilerplate
 ```
 ### 📱 iOS
 
